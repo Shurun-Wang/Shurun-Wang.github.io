@@ -24,12 +24,13 @@ My research interest includes:
 - Physiological signal analysis
 - Human-exoskeleton interaction
 - Brain function connectivity analysis
-
+https://en.juntendo.ac.jp/
 
 # 🎓 Educations 
-- *2019.09 - 2023.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. 
-- *2016.09 - 2019.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. 
+- *2019.09 - 2024.06*, <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="23pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China.
+- *2023.04 - 2024.04*, <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="23pt"></a> Graduate School of Medicine, Juntendo University, Tokyo, Japan.
+- *2016.09 - 2019.06*, <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="23pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. 
+- *2012.09 - 2016.06*, <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="23pt"></a> School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. 
  
 
 # 📝 Publications 
