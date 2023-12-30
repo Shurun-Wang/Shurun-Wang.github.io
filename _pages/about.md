@@ -100,10 +100,30 @@ My research interest includes:
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="200" height="110"></div></div>
-<div class='paper-box-text' markdown="1"  margin-right:auto;margin-left:auto width="75%" valign="middle">
+<div class='paper-box-text'>
+            <td width="75%" valign="middle">
+              <a href="https://recognize-anything.github.io/">
+                <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+              </a>
+              <br>
+              Youcai Zhang*,
+              <strong>Xinyu Huang*</strong>,
+              Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+              <br>
+              <em>Tech report</em>,
+              2023
+              <br>
+              <a href="https://recognize-anything.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2306.03514">arXiv</a>
+              /
+              <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a>
+              /
+              <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+              <p></p>
+              <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+            </td>
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 </div>
 </div>
 
