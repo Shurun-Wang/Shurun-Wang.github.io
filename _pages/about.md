@@ -27,6 +27,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
+<div style="border-bottom: 2px solid #000; margin: 10px 0;"></div>
 - *2019.09 - 2024.06*, Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2023.04 - 2024.04*, Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
 - *2016.09 - 2019.06*, M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
@@ -34,8 +35,11 @@ My research interest includes:
 
 
 # 📝 Publications 
+<div style="border-bottom: 2px solid #000; margin: 10px 0;"></div>
+
 ### 2023
-<div style="border-bottom: 3px solid #000; margin: 10px 0;"></div>
+<div style="border-bottom: 1px solid #000; margin: 10px 0;"></div>
+
 <table style="width:100%;border:1px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
@@ -97,6 +101,7 @@ My research interest includes:
 
 ### 2022
 ---
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
@@ -130,13 +135,16 @@ My research interest includes:
 </table>
 
 # 🏅 Honors and Awards
+<div style="border-bottom: 2px solid #000; margin: 10px 0;"></div>
 - *2022.10*  National Scholorship, China
 
 
 # 💬 News
+<div style="border-bottom: 2px solid #000; margin: 10px 0;"></div>
 - *2021.10*, None
 
 
 # 🏭 Others
+<div style="border-bottom: 2px solid #000; margin: 10px 0;"></div>
 - None
   
