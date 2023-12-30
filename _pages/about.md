@@ -34,34 +34,35 @@ My research interest includes:
 
  
 # 📝 Publications 
-<div style="display: flex; align-items: stretch;">
-    <div style="flex: 0 0 auto; align-self: center;">
-        <img src="images/ijaem2020.svg" style="height: 100%;">
-    </div>
-    <div style="flex: 1; padding-left: 20px;">
-        <h3>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</h3>
-        <p>摘要: test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test</p>
-    </div>
-</div>
-
-
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
-    <tr>
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
-      </td>
-      <td width="75%" valign="middle">
-        <a href="https://github.com/xinyu1205/recognize-anything">
-          <span style="font-weight: bold;">Recognize Anything</span>
-        </a>
-        <br>
-        <strong>project owned by Xinyu Huang</strong>
-        <br>
-        <span style="color: red;">1K+ stars!</span>
-        <p>We provide <strong>Recognize Anything Model (RAM)</strong> and <strong>Tag2Text model</strong> demonstrating <strong>superior image recognition ability!</strong></p>
-      </td>
-    </tr>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
+            </td>
+            <td width="75%" valign="middle">
+              <a href="https://recognize-anything.github.io/">
+                <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+              </a>
+              <br>
+              Youcai Zhang*,
+              <strong>Xinyu Huang*</strong>,
+              Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+              <br>
+              <em>Tech report</em>,
+              2023
+              <br>
+              <a href="https://recognize-anything.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2306.03514">arXiv</a>
+              /
+              <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a>
+              /
+              <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+              <p></p>
+              <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+            </td>
+          </tr>
   </tbody>
 </table>
 
