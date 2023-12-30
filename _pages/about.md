@@ -34,40 +34,15 @@ My research interest includes:
 
  
 # 📝 Publications 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    .container {
-        display: flex;
-        align-items: stretch; /* 确保所有项目填充容器 */
-    }
-    .image-container {
-        flex-shrink: 0; /* 防止图像缩小 */
-    }
-    .image-container img {
-        height: 100%; /* 图像高度自适应容器 */
-        width: auto; /* 保持图像宽高比 */
-    }
-    .text-container {
-        padding-left: 20px; /* 文本与图像之间的间距 */
-    }
-</style>
-</head>
-<body>
-
-<div class="container">
-    <div class="image-container">
-        <img src="images/ijaem2020.svg" alt="Image Description">
+<div style="display: flex; align-items: stretch;">
+    <div style="flex: 0 0 auto; align-self: center;">
+        <img src="images/ijaem2020.svg" style="height: 100%;">
     </div>
-    <div class="text-container">
-        <h2>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</h2>
-        <p>摘要: test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test </p>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</h3>
+        <p>摘要: test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test</p>
     </div>
 </div>
-
-</body>
-</html>
 
 
 <div style="display: flex; align-items: center;">
