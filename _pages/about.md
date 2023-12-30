@@ -36,7 +36,7 @@ My research interest includes:
 # 📝 Publications 
 ### 2023
 <div style="border-bottom: 3px solid #000; margin: 10px 0;"></div>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -67,7 +67,8 @@ My research interest includes:
           </tr>
   </tbody>
 </table>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<div style="border:none; margin:0; padding:0; height:0;"></div>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
