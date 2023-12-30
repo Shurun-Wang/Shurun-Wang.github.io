@@ -45,16 +45,27 @@ My research interest includes:
 </div>
 
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <img src="images/ijaem2020.svg" alt="论文图像描述" style="width: auto; height: auto;">
-    </div>
-    <div style="flex: 2; padding-left: 20px;">
-        <strong>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</strong><br>
-        摘要: 简短的论文摘要
-      <a href="[https://www.example.com](https://dx.doi.org/10.1109/TMAG.2018.2844220)">[HTML]</a>
-    </div>
-</div>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
+      </td>
+      <td width="75%" valign="middle">
+        <a href="https://github.com/xinyu1205/recognize-anything">
+          <span style="font-weight: bold;">Recognize Anything</span>
+        </a>
+        <br>
+        <strong>project owned by Xinyu Huang</strong>
+        <br>
+        <span style="color: red;">1K+ stars!</span>
+        <p>We provide <strong>Recognize Anything Model (RAM)</strong> and <strong>Tag2Text model</strong> demonstrating <strong>superior image recognition ability!</strong></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 # 🏅 Honors and Awards
 - *2022.10*  National Scholorship, China
