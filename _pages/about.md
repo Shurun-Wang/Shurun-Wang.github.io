@@ -39,9 +39,8 @@ My research interest includes:
         <img src='images/ijaem2020.svg' alt="sym" style="max-width: 100%; height: auto;">
     </div>
     <div style="flex: 2; padding-left: 20px;">
-        <strong> - The influence of magnetic head’s pose on magnetic flux leakage detection.</strong><br>
-        `Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. [[HTML]](https://dx.doi.org/10.3233/JAE-209356)[[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)<br>
-        2020<br>
+        <strong> - Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. [[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+          <br>
         Content: 简短的论文摘要
     </div>
 </div>
@@ -53,8 +52,9 @@ My research interest includes:
 [[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
 
 
+
 # 🏅 Honors and Awards
-- *2022.10*  National Scholorship.
+- *2022.10*  National Scholorship, China
 
 
 # 💬 News
