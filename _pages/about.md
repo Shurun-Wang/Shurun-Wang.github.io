@@ -71,7 +71,8 @@ My research interest includes:
         <br>
         <em> IEEE Journal of Biomedical and Health Informatics </em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
         <p></p>
-        <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) for estimating upper limb motion angles based on sEMG signals.
+        <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) to estimate the joint angles. <br>
+          We develop a joint training mechanism that integrates MFTCAN with traditional statistical algorithms such as KNR and SVR.
 </p>
     </div>
 </div>
@@ -89,7 +90,7 @@ My research interest includes:
         <br>
         <em> IEEE Transactions on Instrumentation and Measurement </em>, 2022 <a href="https://github.com/Shurun-Wang/sEMGDetection">[code]</a>
         <p></p>
-        <p> We propose a double threshold adaptive method for robust detection of muscle activation interval.
+        <p> We develop a robust SampEn-based algorithm to over-come the influence of the motion artifacts and irregular tonic spikes.  <br> We design a double threshold adaptive detection frame-work with interlocking structure to detect the onsets and offsets of muscle activation intervals.
 </p>
     </div>
 </div>
