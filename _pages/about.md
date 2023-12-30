@@ -65,6 +65,8 @@ My research interest includes:
               <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
             </td>
           </tr>
+
+    
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
@@ -92,6 +94,7 @@ My research interest includes:
               <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
             </td>
           </tr>
+  
   </tbody>
 </table>
 
