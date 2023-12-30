@@ -108,7 +108,7 @@ My research interest includes:
         <br>
         <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
         <br>
-        <em> Biomedical Signal Processing and Control</em>, 2023 <a href="https://github.com/Shurun-Wang/R2CMSE">[code]</a>
+        <em> Biomedical Signal Processing and Control</em>, 2021 <a href="https://github.com/Shurun-Wang/R2CMSE">[code]</a>
         <p></p>
         <p> We propose the rapid refined composite multiscale sample entropy (R2CMSE) to extract sEMG signal features, and this algorithm can describe the change process of muscle fatigue. </p>
     </div>
