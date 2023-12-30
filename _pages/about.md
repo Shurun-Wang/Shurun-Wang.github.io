@@ -136,7 +136,7 @@ My research interest includes:
             <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:110px;display:block;">
         </div>
     </div>
-    <div class='paper-box-text' style="padding-top:5px;">
+    <div class='paper-box-text' style="padding-top:1px;">
         <a href="https://recognize-anything.github.io/">
             <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
         </a>
