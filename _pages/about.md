@@ -76,6 +76,23 @@ My research interest includes:
     </div>
 </div>
 
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/tim22.png' alt="sym" style="width:340px;height:298px;margin:auto;vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/document/9857571">
+            <papertitle> Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang*, Lifu Gao, et al.
+        <br>
+        <em> IEEE Journal of Biomedical and Health Informatics </em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
+        <p></p>
+        <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) for estimating upper limb motion angles based on sEMG signals
+</p>
+    </div>
+</div>
 
 
 # 🏅 Honors and Awards
