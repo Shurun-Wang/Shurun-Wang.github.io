@@ -110,7 +110,7 @@ My research interest includes:
         <br>
         <em> Biomedical Signal Processing and Control</em>, 2023 <a href="https://github.com/Shurun-Wang/R2CMSE">[code]</a>
         <p></p>
-        <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
+        <p> We propose the rapid refined composite multiscale sample entropy (R2CMSE) to extract sEMG signal features, and this algorithm can describe the change process of muscle fatigue. </p>
     </div>
 </div>
 
