@@ -48,7 +48,7 @@ My research interest includes:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="images/ijaem2020.svg" alt="论文图像描述" style="max-width: 100%; height: auto;">
+        <img src="images/ijaem2020.svg" alt="论文图像描述" style="width: auto; height: auto;">
     </div>
     <div style="flex: 2; padding-left: 20px;">
         <strong>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</strong><br>
