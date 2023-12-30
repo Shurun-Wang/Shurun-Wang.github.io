@@ -39,7 +39,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tnnls23.png' alt="sym" style="width:370px;height:205px;margin:auto;vertical-align:middle">
+        <img src='images/tnnls23.png' alt="sym" style="width:400px;height:205px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9609089">
