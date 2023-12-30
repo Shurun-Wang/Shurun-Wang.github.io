@@ -46,12 +46,9 @@ My research interest includes:
             <papertitle> A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework </papertitle>
         </a>
         <br>
-      S. Wang, H. Tang*, B. Wang, et al,
         <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
         <br>
-        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023
-        <br>
-        <a href="https://github.com/Shurun-Wang/NAS">code</a>
+        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023 <a href="https://github.com/Shurun-Wang/NAS">code</a>
         <p></p>
         <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
     </div>
