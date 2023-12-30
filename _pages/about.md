@@ -99,7 +99,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc21.png' alt="sym" style="width:340px;height:175px;margin:auto;vertical-align:middle">
+        <img src='images/bspc21.png' alt="sym" style="width:340px;height:160px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://www.sciencedirect.com/science/article/pii/S1746809421001075">
