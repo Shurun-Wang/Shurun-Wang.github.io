@@ -85,14 +85,15 @@ My research interest includes:
     </div>
 </div>
 
+
 # 🏅 Honors and Awards
-- *2022.10*  National Scholorship, China
+- *2023.04* Sponsored by the China Scholarship Council
+- *2022.10* National scholarship for doctoral students
 
 
 # 💬 News
-- *2021.10*, None
+- *2023.09*, Qi Liu and I have entered into matrimony.
 
 
-# 🏭 Others
-- None
+
   
