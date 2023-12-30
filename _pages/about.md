@@ -37,101 +37,34 @@ My research interest includes:
 <h3 align="center">2023</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-<table style="width:100%;border:1px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
-  <tbody>
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
-            </td>
-            <td width="75%" valign="middle">
-              <a href="https://recognize-anything.github.io/">
-                <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
-              </a>
-              <br>
-              Youcai Zhang*,
-              <strong>Xinyu Huang*</strong>,
-              Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
-              <br>
-              <em>Tech report</em>,
-              2023
-              <br>
-              <a href="https://recognize-anything.github.io/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2306.03514">arXiv</a>
-              /
-              <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a>
-              /
-              <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
-              <p></p>
-              <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
-            </td>
-          </tr>
-    <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="images/ijaem2020.svg" alt="tag2text" width="190" height="110">
-            </td>
-            <td width="75%" valign="middle">
-              <a href="https://recognize-anything.github.io/">
-                <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
-              </a>
-              <br>
-              Youcai Zhang*,
-              <strong>Xinyu Huang*</strong>,
-              Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
-              <br>
-              <em>Tech report</em>,
-              2023
-              <br>
-              <a href="https://recognize-anything.github.io/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2306.03514">arXiv</a>
-              /
-              <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a>
-              /
-              <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
-              <p></p>
-              <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
-            </td>
-          </tr>
-  </tbody>
-</table>
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:150px;margin:auto;vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://recognize-anything.github.io/">
+            <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+        </a>
+        <br>
+        Youcai Zhang*, <strong>Xinyu Huang*</strong>, Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+        <br>
+        <em>Tech report</em>, 2023
+        <br>
+        <a href="https://recognize-anything.github.io/">project page</a> /
+        <a href="https://arxiv.org/abs/2306.03514">arXiv</a> /
+        <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a> /
+        <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+        <p></p>
+        <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+    </div>
+</div>
+
 
 <h3 align="center">2022</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div>
-  <td style="padding:20px;width:75%;vertical-align:middle"><img src='images/sensors2022.svg' alt="sym" width="200" height="110"> </td>
-</div></div>
-<div class='paper-box-text'>
-            <td width="100%" valign="middle">
-              <a href="https://recognize-anything.github.io/">
-                <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
-              </a>
-              <br>
-              Youcai Zhang*,
-              <strong>Xinyu Huang*</strong>,
-              Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
-              <br>
-              <em>Tech report</em>,
-              2023
-              <br>
-              <a href="https://recognize-anything.github.io/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2306.03514">arXiv</a>
-              /
-              <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a>
-              /
-              <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
-              <p></p>
-              <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
-            </td>
-
-</div>
-</div>
-
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <div class="badge">Sensors 2022</div>
         <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:150px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
