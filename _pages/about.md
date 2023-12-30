@@ -129,6 +129,31 @@ My research interest includes:
 </div>
 </div>
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Sensors 2022</div>
+            <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:110px;display:block;">
+        </div>
+    </div>
+    <div class='paper-box-text' style="padding-top:5px;">
+        <a href="https://recognize-anything.github.io/">
+            <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+        </a>
+        <br>
+        Youcai Zhang*, <strong>Xinyu Huang*</strong>, Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+        <br>
+        <em>Tech report</em>, 2023
+        <br>
+        <a href="https://recognize-anything.github.io/">project page</a> /
+        <a href="https://arxiv.org/abs/2306.03514">arXiv</a> /
+        <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a> /
+        <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+        <p></p>
+        <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+    </div>
+</div>
+
 # 🏅 Honors and Awards
 - *2022.10*  National Scholorship, China
 
