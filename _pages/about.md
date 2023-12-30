@@ -39,7 +39,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:150px;margin:auto;vertical-align:middle">
+        <img src='images/tnnls23.jpg' alt="sym" style="width:200px;height:150px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9609089">
@@ -53,7 +53,7 @@ My research interest includes:
         <br>
         <a href="https://github.com/Shurun-Wang/NAS">code</a>
         <p></p>
-        <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+        <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
     </div>
 </div>
 
