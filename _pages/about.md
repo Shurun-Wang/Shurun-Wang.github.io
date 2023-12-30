@@ -60,25 +60,22 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/sensors2022.svg' alt="sym" style="width:300px;height:200px;margin:auto;vertical-align:middle">
+        <img src='images/jbhl22.png' alt="sym" style="width:400px;height:205px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://recognize-anything.github.io/">
-            <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+        <a href="https://ieeexplore.ieee.org/document/9857571">
+            <papertitle> Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network </papertitle>
         </a>
         <br>
-        Youcai Zhang*, <strong>Xinyu Huang*</strong>, Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+        <strong>Shurun Wang</strong>, Hao Tang*, Lifu Gao, et al.
         <br>
-        <em>Tech report</em>, 2023
-        <br>
-        <a href="https://recognize-anything.github.io/">project page</a> /
-        <a href="https://arxiv.org/abs/2306.03514">arXiv</a> /
-        <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a> /
-        <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+        <em> IEEE Journal of Biomedical and Health Informatics </em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
         <p></p>
-        <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
+        <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) for estimating upper limb motion angles based on sEMG signals
+</p>
     </div>
 </div>
+
 
 
 # 🏅 Honors and Awards
