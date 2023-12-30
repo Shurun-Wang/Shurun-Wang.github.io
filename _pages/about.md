@@ -40,11 +40,22 @@ My research interest includes:
     </div>
     <div style="flex: 2; padding-left: 20px;">
         <strong>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</strong><br>
-        摘要: 简短的论文摘要
+        Content: test test test test test test test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test   test test test test test test    
       <a href="[https://www.example.com](https://dx.doi.org/10.1109/TMAG.2018.2844220)">[HTML]</a>
     </div>
 </div>
 
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="images/ijaem2020.svg" alt="论文图像描述" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="flex: 2; padding-left: 20px;">
+        <strong>Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10.</strong><br>
+        摘要: 简短的论文摘要
+      <a href="[https://www.example.com](https://dx.doi.org/10.1109/TMAG.2018.2844220)">[HTML]</a>
+    </div>
+</div>
 
 # 🏅 Honors and Awards
 - *2022.10*  National Scholorship, China
