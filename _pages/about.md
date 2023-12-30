@@ -34,6 +34,19 @@ My research interest includes:
 
 # 📝 Publications 
 
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src='images/ijaem2020.svg' alt="sym" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="flex: 2; padding-left: 20px;">
+        <strong>The influence of magnetic head’s pose on magnetic flux leakage detection.</strong><br>
+        `Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang.<br>
+        2020<br>
+        Content: 简短的论文摘要
+    </div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ijaem2020.svg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
