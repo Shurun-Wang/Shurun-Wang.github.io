@@ -25,25 +25,15 @@ My research interest includes:
 - Human-exoskeleton interaction
 - Brain function connectivity analysis
 
+
 # 🎓 Educations 
 - *2019.09 - 2024.06*, Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2023.04 - 2024.04*, Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
 - *2016.09 - 2019.06*, M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2012.09 - 2016.06*, B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+
  
-
 # 📝 Publications 
-
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <img src='images/ijaem2020.svg' alt="sym" style="max-width: 100%; height: auto;">
-    </div>
-    <div style="flex: 2; padding-left: 20px;">
-        <strong> - Erlong Li, Yihua Kang, Jian Tang, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. IEEE Transactions on Magnetics. 2018, 54(8): 1–10. <strong>
-          <a href="[https://www.example.com](https://dx.doi.org/10.1109/TMAG.2018.2844220)">[HTML]</a>
-          <br>Content: 简短的论文摘要
-    </div>
-</div>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="images/ijaem2020.svg" alt="论文图像描述" style="max-width: 100%; height: auto;">
@@ -54,7 +44,6 @@ My research interest includes:
       <a href="[https://www.example.com](https://dx.doi.org/10.1109/TMAG.2018.2844220)">[HTML]</a>
     </div>
 </div>
-
 
 
 # 🏅 Honors and Awards
