@@ -42,18 +42,16 @@ My research interest includes:
         <img src='images/sensors2022.svg' alt="sym" style="width:200px;height:150px;margin:auto;vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://recognize-anything.github.io/">
-            <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
+        <a href="https://ieeexplore.ieee.org/document/9609089">
+            <papertitle> A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework </papertitle>
         </a>
         <br>
-        Youcai Zhang*, <strong>Xinyu Huang*</strong>, Jinyu Ma*, Zhaoyang Li*, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang
+      S. Wang, H. Tang*, B. Wang, et al,
+        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
         <br>
-        <em>Tech report</em>, 2023
+        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023
         <br>
-        <a href="https://recognize-anything.github.io/">project page</a> /
-        <a href="https://arxiv.org/abs/2306.03514">arXiv</a> /
-        <a href="https://huggingface.co/spaces/xinyu1205/Tag2Text">demo</a> /
-        <a href="https://github.com/xinyu1205/Recognize_Anything-Tag2Text">code</a>
+        <a href="https://github.com/Shurun-Wang/NAS">code</a>
         <p></p>
         <p><strong>Recognition and localization are two foundation computer vision tasks.</strong> <strong>The Segment Anything Model (SAM)</strong> excels in <strong>localization capabilities</strong>, while it falls short when it comes to <strong>recognition tasks</strong>. <strong>The Recognize Anything Model (RAM)</strong> exhibits <strong>exceptional recognition abilities</strong>, in terms of <strong>both accuracy and scope</strong>.</p>
     </div>
