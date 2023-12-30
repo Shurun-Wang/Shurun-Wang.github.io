@@ -100,10 +100,10 @@ My research interest includes:
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div>
-  <td style="padding:20px;width:25%;vertical-align:middle"><img src='images/sensors2022.svg' alt="sym" width="200" height="110"> </td>
+  <td style="padding:20px;width:75%;vertical-align:middle"><img src='images/sensors2022.svg' alt="sym" width="200" height="110"> </td>
 </div></div>
 <div class='paper-box-text'>
-            <td width="75%" valign="middle">
+            <td width="100%" valign="middle">
               <a href="https://recognize-anything.github.io/">
                 <papertitle> Recognize Anything: A Strong Image Tagging Model </papertitle>
               </a>
