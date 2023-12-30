@@ -32,9 +32,10 @@ My research interest includes:
 - *2016.09 - 2019.06*, M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2012.09 - 2016.06*, B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
- 
+
 # 📝 Publications 
-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+---
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -66,7 +67,8 @@ My research interest includes:
   </tbody>
 </table>
 
-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+---
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
