@@ -94,6 +94,25 @@ My research interest includes:
     </div>
 </div>
 
+<h3 align="center">2021</h3>
+<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/tnnls23.png' alt="sym" style="width:340px;height:175px;margin:auto;vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/document/9609089">
+            <papertitle> Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
+        <br>
+        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023 <a href="https://github.com/Shurun-Wang/NAS">[code]</a>
+        <p></p>
+        <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
+    </div>
+</div>
 # 🏅 Honors and Awards
 - *2023.04*   Sponsored by the China Scholarship Council
 - *2022.10*   National scholarship for doctoral students
