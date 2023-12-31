@@ -142,7 +142,7 @@ My research interest includes:
 
 
 # 💬 News
-- *Now* &ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
+- *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
 - *2023.09*&ensp;Qi Liu and I have entered into matrimony.
 
 
