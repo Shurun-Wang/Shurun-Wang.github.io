@@ -27,10 +27,10 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2019.09 - 2024.06*, Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2023.04 - 2024.04*, Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
-- *2016.09 - 2019.06*, M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2012.09 - 2016.06*, B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2019.09 - 2024.06*&ensp;Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2023.04 - 2024.04*&ensp;Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
+- *2016.09 - 2019.06*&ensp;M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
 
 # 📝 Publications 
@@ -137,12 +137,12 @@ My research interest includes:
 - Hao Tang, __Shurun Wang__, Bin Wang. A method for human motion intention recognition based on network architecture search.（Chinese）
 
 # 🏅 Honors and Awards
-- *2023.04*   Sponsored by the China Scholarship Council
-- *2022.10*   National scholarship for doctoral students
+- *2023.04*&ensp;Sponsored by the China Scholarship Council
+- *2022.10*&ensp;National scholarship for doctoral students
 
 
 # 💬 News
-- *2023.09*   Qi Liu and I have entered into matrimony.
+- *2023.09*&ensp;Qi Liu and I have entered into matrimony.
 
 
 
