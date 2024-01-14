@@ -51,7 +51,7 @@ My research interest includes:
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- __Shurun Wang__, Hao Tang*, Feng Chen, et al. Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals. Artificial Intelligence in Medicine. (Accepeted)
+- __Shurun Wang__, Hao Tang*, Feng Chen, et al. Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals. Artificial Intelligence in Medicine. (Accepted)
 
 
 <h3 align="center">2023</h3>
