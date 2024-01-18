@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a visiting student in Graduate School of Medicine at Juntendo University. I have published 5+ papers with 
+I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a research student in Graduate School of Medicine at Juntendo University. I have published 5+ papers with 
  <a href='https://scholar.google.com/citations?user=Pb73FP8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
@@ -28,7 +28,7 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2019.09 - 2024.06*&ensp;Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2023.04 - 2024.04*&ensp;Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
+- *2023.04 - 2024.04*&ensp;Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Research Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
 - *2016.09 - 2019.06*&ensp;M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
