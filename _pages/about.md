@@ -99,7 +99,8 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tim22.png' alt="sym" style="width:340px;height:228px;margin:auto;vertical-align:middle">
+        <img src='images/tim22.png' alt="sym" 
+          style="max-width:75%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9762275">
