@@ -59,7 +59,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tnnls23.png' alt="sym" style="width:340px;height:175px;margin:auto;vertical-align:middle">
+        <img src='images/tnnls23.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9609089">
@@ -80,7 +80,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/jbhl22.png' alt="sym" style="width:340px;height:298px;margin:auto;vertical-align:middle">
+        <img src='images/jbhl22.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9857571">
@@ -100,7 +100,7 @@ My research interest includes:
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
         <img src='images/tim22.png' alt="sym" 
-          style="max-width:75%; height:auto; margin:auto; vertical-align:middle">
+          style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://ieeexplore.ieee.org/document/9762275">
@@ -121,7 +121,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc21.png' alt="sym" style="width:380px;height:145px;margin:auto;vertical-align:middle">
+        <img src='images/bspc21.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://www.sciencedirect.com/science/article/pii/S1746809421001075">
