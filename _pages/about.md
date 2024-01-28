@@ -51,7 +51,22 @@ My research interest includes:
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- __Shurun Wang__, Hao Tang*, Feng Chen, et al. Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals. Artificial Intelligence in Medicine. (Accepted)
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/aiim24.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
+            <papertitle> Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang*, Feng Chen, et al.
+        <br>
+        <em> Artificial Intelligence in Medicine</em>, 2024 <a href="https://github.com/Shurun-Wang/ALSF">[code]</a>
+        <p></p>
+        <p>We propose an innovative auto-learning search framework (ALSF) based on a weighted double Q-learning (WDQ-learning) algo-rithm. The development of this framework is tailored to opti-mize the construction of neural networks to achieve superior gesture recognition performance. </p>
+    </div>
+</div>
 
 
 <h3 align="center">2023</h3>
