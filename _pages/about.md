@@ -163,6 +163,7 @@ My research interest includes:
 
 # 💬 News
 - *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
+- *2024.06*&ensp;Graduated with a Ph.D.
 - *2023.08*&ensp;Participate in the Brain/MINDS Data Portal Hackathon in RIKEN
 - *2022.09*&ensp;Qi Liu and I have entered into matrimony
   
