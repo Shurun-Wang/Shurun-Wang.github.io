@@ -154,7 +154,7 @@ My research interest includes:
 <h3 align="center">Patents</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- Hao Tang, __Shurun Wang__, Bin Wang. A method for human motion intention recognition based on network architecture search.（Chinese）
+- Hao Tang, __Shurun Wang__, Bin Wang. A method for human motion intention recognition based on network architecture search. ZL202111251646.3 (Chinese）
 
 # 🏅 Honors and Awards
 - *2023.04*&ensp;Sponsored by the China Scholarship Council
