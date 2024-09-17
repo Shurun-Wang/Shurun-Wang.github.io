@@ -41,8 +41,6 @@ My research interest includes:
 
 - __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. A Robust Denoising Diffusion Architecture for Completing Missing Regions of Multiple Physiological Signals. 
 
-- __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. Optimizing Graph Neural Network Architectures for Schizophrenia Spectrum Disorder Prediction Using Evolutionary Algorithms.
-
 - __Shurun Wang__, Hao Tang*, Zhaowu Ping, et al. Improved Data-Driven Model-Free Adaptive Control Method for an Upper Extremity Power-Assist Exoskeleton.
 
 - __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. ECGDenoiser: A Magnitude-Aware Deep Learning Framework for Electrocardiogram Signal Enhancement.
@@ -50,6 +48,24 @@ My research interest includes:
 
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
+            <papertitle> Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang, Ryutaro Himeno, et al.
+        <br>
+        <em> Computer Methods and Programs in Biomedicine</em>, 2024 <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
+        <p></p>
+        <p>We propose a graph neural architecture search framework to build GNN model for disorder prediction. We use the GNNExplainer method to provide the explainability of the model, and the explainability results provide valuable insights for diagnosis and treatment.</p>
+    </div>
+</div>
+
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
