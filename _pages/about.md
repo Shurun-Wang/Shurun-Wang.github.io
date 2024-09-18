@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received the Ph.D. degree in Electrical Engineering from Hefei University of Technology. I have published 5+ papers with 
- <a href='https://scholar.google.com/citations?user=Pb73FP8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
 - Physiological signal analysis
