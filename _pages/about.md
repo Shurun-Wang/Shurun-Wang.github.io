@@ -54,7 +54,7 @@ My research interest includes:
         <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169260724004127">
             <papertitle> Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms </papertitle>
         </a>
         <br>
