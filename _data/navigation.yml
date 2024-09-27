@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Work Experiences"
+    url: "/#work-experiences"
+    
   - title: "Educations"
     url: "/#-educations"
 
