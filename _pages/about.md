@@ -26,6 +26,10 @@ My research interest includes:
 - Brain function connectivity analysis
 
 
+# 💻 Work Experiences
+- *2024.09 - Now*&ensp;Postdoctoral researcher in School of Information Science and Technology, University of Science and Technology of China, Hefei, China.
+
+
 # 🎓 Educations 
 - *2019.09 - 2024.06*&ensp;Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2023.04 - 2024.04*&ensp;Ph.D. in Graduate School of Medicine, Juntendo University, Tokyo, Japan. (Visiting Student) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
