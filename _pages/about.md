@@ -38,17 +38,6 @@ My research interest includes:
 
 
 # 📝 Publications 
-<h3 align="center">Under Review</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div> 
-
-- __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. Estimating Lower Extremity Multi-Joint Kinematics with One IMU Sensor via Attention-based Temporal Convolutional Neural Network.
-
-- __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. A Robust Denoising Diffusion Architecture for Completing Missing Regions of Multiple Physiological Signals. 
-
-- __Shurun Wang__, Hao Tang*, Zhaowu Ping, et al. Improved Data-Driven Model-Free Adaptive Control Method for an Upper Extremity Power-Assist Exoskeleton.
-
-- __Shurun Wang__, Hao Tang*, Ryutaro Himeno, et al. ECGDenoiser: A Magnitude-Aware Deep Learning Framework for Electrocardiogram Signal Enhancement.
-
 
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
