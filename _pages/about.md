@@ -53,7 +53,7 @@ My research interest includes:
         <br>
         <strong>Shurun Wang</strong>, Hao Tang, Ryutaro Himeno, et al.
         <br>
-        <em> Computer Methods and Programs in Biomedicine</em>, 2024 <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
+        <em> Computer Methods and Programs in Biomedicine (TOP)</em>, 2024 <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
         <p></p>
         <p>We propose a graph neural architecture search framework to build GNN model for disorder prediction. We use the GNNExplainer method to provide the explainability of the model, and the explainability results provide valuable insights for diagnosis and treatment.</p>
     </div>
@@ -92,7 +92,7 @@ My research interest includes:
         <br>
         <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
         <br>
-        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023 <a href="https://github.com/Shurun-Wang/NAS">[code]</a>
+        <em> IEEE Transactions on Neural Networks ＆ Learning Systems (TOP)</em>, 2023 <a href="https://github.com/Shurun-Wang/NAS">[code]</a>
         <p></p>
         <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
     </div>
@@ -113,7 +113,7 @@ My research interest includes:
         <br>
         <strong>Shurun Wang</strong>, Hao Tang*, Lifu Gao, et al.
         <br>
-        <em> IEEE Journal of Biomedical and Health Informatics </em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
+        <em> IEEE Journal of Biomedical and Health Informatics (TOP)</em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
         <p></p>
         <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) to estimate the joint angles. <br>
           We develop a joint training mechanism that integrates MFTCAN with traditional statistical algorithms such as KNR and SVR.
@@ -133,7 +133,7 @@ My research interest includes:
         <br>
         Hao Tang*, <strong>Shurun Wang</strong>, Qi Tan, et al.
         <br>
-        <em> IEEE Transactions on Instrumentation and Measurement </em>, 2022 <a href="https://github.com/Shurun-Wang/sEMGDetection">[code]</a>
+        <em> IEEE Transactions on Instrumentation and Measurement (TOP)</em>, 2022 <a href="https://github.com/Shurun-Wang/sEMGDetection">[code]</a>
         <p></p>
         <p> We develop a robust SampEn-based algorithm to overcome the influence of the motion artifacts and irregular tonic spikes.  <br> We design a double threshold adaptive detection frame-work with interlocking structure to detect the onsets and offsets of muscle activation intervals.
 </p>
