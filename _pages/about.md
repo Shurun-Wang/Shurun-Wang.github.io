@@ -38,6 +38,26 @@ My research interest includes:
 
 
 # 📝 Publications 
+<h3 align="center">2025</h3>
+<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://link.springer.com/article/10.1007/s10489-025-06415-3">
+            <papertitle> Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang, Zhaowu Ping, et al.
+        <br>
+        <em>  Applied Intelligence</em>, 2025  <a href="https://github.com/Shurun-Wang/ISO-IMFAC">[code]</a>
+        <p></p>
+        <p>We propose an IMFAC method, which requires only the I/O data of the system to achieve precise control of the exoskeleton. Meanwhile, an ISO algorithm is proposed to search for the optimal initial conditions of the IMFAC method.  </p>
+    </div>
+</div>
+
 
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
