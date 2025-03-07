@@ -43,7 +43,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+        <img src='images/apin2025.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://link.springer.com/article/10.1007/s10489-025-06415-3">
