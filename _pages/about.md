@@ -49,9 +49,6 @@ My research interest includes:
 9. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
 
 
-# 🏅 Honors and Awards
-- *2023.04*&ensp;Sponsored by the China Scholarship Council
-- *2022.10*&ensp;National scholarship for doctoral students
 
 
 
