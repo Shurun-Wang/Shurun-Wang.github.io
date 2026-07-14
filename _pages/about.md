@@ -22,8 +22,8 @@ A researcher for Muscle-computer interfaces (MCIs), and I have published 5+ pape
 
 My research interest includes: 
 - Biomedical signal analysis
-- Human-exoskeleton interaction
-- Brain function connectivity analysis
+- Myoelectric control
+- Brain-computer interface
 
 
 # 💻 Work Experiences
