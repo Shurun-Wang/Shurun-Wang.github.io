@@ -38,10 +38,6 @@ My research interest includes:
 
 
 # 📝 Publications 
-Wang, S., Tang, H., Himeno, R. et al. Estimating Lower-Extremity Multi-Joint Kinematics with One IMU Sensor via Attention-based Temporal Convolutional Neural Network. Cogn Comput 18, 83 (2026). https://doi.org/10.1007/s12559-026-10627-1
-
-
-
 1. **S. Wang**, H. Tang*, R. Himeno, et al. Estimating lower-extremity multi-Joint kinematics with one IMU sensor via attention-based temporal convolutional neural network.  Cognitive Computation, 18:83, 2026. [Paper](https://link.springer.com/article/10.1007/s12559-026-10627-1) / [Code](https://github.com/Shurun-Wang/MIE-TCN)
 2. **S. Wang**, H. Tang*, R. Himeno, et al. A robust denoising diffusion framework for completing missing regions of multiple biomedical signals.  Biomedical Signal Processing and Control, 113:108788, 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809425012996) / [Code](https://github.com/Shurun-Wang/DBSCF)
 3. **S. Wang**, H. Tang*, R. Himeno, et al. ECGDenoiser: A magnitude-aware deep learning framework with phase retrieval for electrocardiogram signal enhancement. Circuits, Systems, and Signal Processing, 2025, 44(10): 7526-7548. [Paper](https://link.springer.com/article/10.1007/s00034-025-03142-5) / [Code](https://github.com/Shurun-Wang/ECGDenoiser)
