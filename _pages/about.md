@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A researcher for Muscle-computer interfaces (MCIs), and I have published 5+ papers with 
- <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
 My research interest includes: 
 - Biomedical signal analysis
 - Myoelectric control
